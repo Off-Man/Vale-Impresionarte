@@ -3,7 +3,6 @@ import { productos } from "../mocks/productos.js";
 
 let cardContainer = document.getElementById("card-template");
 
-productos.forEach(prod => {
     productos.forEach(prod => {
         // Crea un nuevo elemento div para cada tarjeta
         let card = document.createElement("div");
@@ -33,7 +32,7 @@ productos.forEach(prod => {
         // Agrega la tarjeta al contenedor externo
         cardContainer.appendChild(card);
     });
-});
+
 
 
 
