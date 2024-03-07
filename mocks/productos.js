@@ -1,7 +1,7 @@
 export const productos = [
     {
         id: 1,
-        name: "ADOS-2 COMPLETO",
+        name: "ADOS-2",
         price: 1200,
         category: "Pruebas Psicometricas",
         img: "../img/productos/small/ados-2-completo.jpg"
@@ -22,7 +22,7 @@ export const productos = [
     },
     {
         id: 4,
-        name: "BEI. BATERÍA DE EVALUACIÓN INFANTIL",
+        name: "BEI",
         price: 1200,
         category: "Pruebas Psicometricas",
         img: "../img/productos/small/bei-bateria-de-eval-infantil.jpg"
@@ -57,7 +57,7 @@ export const productos = [
     },
     {
         id: 9,
-        name: "MATERIALES CONCRETOS ENI 2",
+        name: "MAT. CONCRETOS ENI 2",
         price: 1200,
         category: "Materiales concretos",
         img: "../img/productos/small/m-concreto-eni-2.jpg"
@@ -85,7 +85,7 @@ export const productos = [
     },
     {
         id: 13,
-        name: "CUADERNO DE REGISTRO DE SESIÓN",
+        name: "CUADERNO DE REG. DE SESIÓN",
         price: 1200,
         category: "Agendas y cuadernos",
         img: "../img/productos/small/cuaderno-registro-sesion.jpg"
